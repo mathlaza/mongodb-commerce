@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="mongodb-commerce.png" alt="Logo" width="700" height="370">
+    <img src="mongopic.png" alt="Logo" width="700" height="370">
   
   <p align="center" style="color:#8FBC8B; font-size:25px">
     MongoDB - commerce 
