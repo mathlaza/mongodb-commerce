@@ -30,7 +30,6 @@ O projeto contém 32 arquivos dentro da pasta `/challenges` com descrição do q
 
 * Docker ou MongoDB instalados.
 
-<br>
 
 ### Rodando o projeto com docker:
 1. Clone o repositório em uma pasta de seu computador:
@@ -50,7 +49,6 @@ docker run -d --name=nomeDoContainer -v "$PWD:/app" -p 27017:27017 mongo:5.0
 docker exec -it nomeDoContainer bash
 ```
 5. Execute "mongo" e entre na shell do mongo. Execute "use commerce" para mudar para o banco `commerce`. Com isso, basta copiar e colar as queries do projeto no shell aberto para observar o que cada uma faz!
-<br>
 
 * Para restaurar o banco de dados, basta inserir no terminal do container (passo 4) o comando: 
 ```sh
